@@ -4,23 +4,23 @@ TYPES OF MACHINE LEARNING
 3. Reinforcement learning
 
 -> (GAN) Generative adversarial network
-https://en.wikipedia.org/wiki/Generative_adversarial_network
+(https://en.wikipedia.org/wiki/Generative_adversarial_network)
 
 -> Game theory
   -> Zero-sum game
-https://en.wikipedia.org/wiki/Game_theory
-https://en.wikipedia.org/wiki/Zero-sum_game
+(https://en.wikipedia.org/wiki/Game_theory)
+(https://en.wikipedia.org/wiki/Zero-sum_game)
 
 -> Deep learning
-https://en.wikipedia.org/wiki/Deep_learning
+(https://en.wikipedia.org/wiki/Deep_learning)
   -> (ANN) Artificial neural networks
-  https://en.wikipedia.org/wiki/Artificial_neural_network
+  (https://en.wikipedia.org/wiki/Artificial_neural_network)
 
 -> (DRL) Deep reinforcement learning
-https://en.wikipedia.org/wiki/Deep_reinforcement_learning
+(https://en.wikipedia.org/wiki/Deep_reinforcement_learning)
 
 -> Drop out
-https://en.wikipedia.org/wiki/Dropout_(neural_networks)
+(https://en.wikipedia.org/wiki/Dropout_(neural_networks))
 
 -> Backpropagation
 https://en.wikipedia.org/wiki/Backpropagation

@@ -1,7 +1,7 @@
 TYPES OF MACHINE LEARNING
-1. Supervised learning (most common)
-2. Unsupervised learning
-3. Reinforcement learning
+1. [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning) (most common)
+2. [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
+3. [Reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning)
 
 -> [(GAN) Generative adversarial network](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 

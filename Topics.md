@@ -22,3 +22,5 @@ TYPES OF MACHINE LEARNING
 -> [Convolutional neural network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 
 -> Uses of machine learning 
+  -> Social media
+  -> Health Care

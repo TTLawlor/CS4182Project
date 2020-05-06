@@ -9,7 +9,8 @@
 - [Oxford - A Dictionary of Statistics (3 ed.) ](https://www-oxfordreference-com.proxy.lib.ul.ie/view/10.1093/acref/9780199679188.001.0001/acref-9780199679188-e-2380#)
 - [ Cluster analysis Aldenderfer, Mark S.; Blashfield, Roger K.](https://link.springer.com/chapter/10.1007/978-94-6209-404-8_5)
 - [K-means clustering](https://www.atlantis-press.com/journals/jsta/25894611/view)
-- [Principal components analysis](https://www-oxfordreference-com.proxy.lib.ul.ie/view/10.1093/acref/9780199679188.001.0001/acref-9780199679188-e-1289#)
+- [Principal components analysis - A Dictionary of Statistics 1 ](https://www-oxfordreference-com.proxy.lib.ul.ie/view/10.1093/acref/9780199679188.001.0001/acref-9780199679188-e-1289#)
+- [Principal components analysis - Holland, Steven M](http://strata.uga.edu/software/pdf/pcaTutorial.pdf)
 
 ### Machine Learning in Agriculture
 - [Machine Learning in Agriculture: A Review](https://www.mdpi.com/1424-8220/18/8/2674/htm)

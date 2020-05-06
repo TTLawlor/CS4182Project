@@ -18,3 +18,6 @@
 ### Machine Learning in Social Media
 - [Youtube Demonetization Report](https://docs.google.com/document/d/18B-X77K72PUCNIV3tGonzeNKNkegFLWuLxQ_evhF3AY/edit)
 - [How To Prevent Discriminatory Outcomes in Machine Learning](http://www3.weforum.org/docs/WEF_40065_White_Paper_How_to_Prevent_Discriminatory_Outcomes_in_Machine_Learning.pdf)
+
+### Machine Learning - Introduction
+- [Introduction to Machine Learning, Ethem Alpaydin](https://books.google.ie/books?hl=en&lr=&id=tZnSDwAAQBAJ&oi=fnd&pg=PR7&dq=machine+learning&ots=F2ZXc_9nxd&sig=8dnXiyhBPmieAJEdyzqN2P1ypA4&redir_esc=y#v=onepage&q&f=true)

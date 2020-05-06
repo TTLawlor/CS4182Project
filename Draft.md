@@ -6,7 +6,6 @@
 - Cluster analysis
   - K-means clustering
 - Principal components analysis
-- Autoencoders?
 
 ### Uses of Machine Learning in Social Media – Luke
 

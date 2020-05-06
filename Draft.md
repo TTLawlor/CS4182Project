@@ -8,7 +8,6 @@
 - Principal components analysis
 ### Neural Networks – Tamara
 - Autoencoders
-- Generative adversarial network (GAN)
 
 ### Uses of Machine Learning in Social Media – Luke
 

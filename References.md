@@ -15,5 +15,5 @@
 - [Machine Learning in Agriculture: A Review](https://www.mdpi.com/1424-8220/18/8/2674/htm)
 
 ### Machine Learning in Social Media
-- [Youtube Demonetization Report] (https://docs.google.com/document/d/18B-X77K72PUCNIV3tGonzeNKNkegFLWuLxQ_evhF3AY/edit)
-- [How To Prevent Discriminatory Outcomes in Machine Learning] (http://www3.weforum.org/docs/WEF_40065_White_Paper_How_to_Prevent_Discriminatory_Outcomes_in_Machine_Learning.pdf)
+- [Youtube Demonetization Report](https://docs.google.com/document/d/18B-X77K72PUCNIV3tGonzeNKNkegFLWuLxQ_evhF3AY/edit)
+- [How To Prevent Discriminatory Outcomes in Machine Learning](http://www3.weforum.org/docs/WEF_40065_White_Paper_How_to_Prevent_Discriminatory_Outcomes_in_Machine_Learning.pdf)

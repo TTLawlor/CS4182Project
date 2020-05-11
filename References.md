@@ -14,13 +14,10 @@
 
 ### Machine Learning in Agriculture
 - [Machine Learning in Agriculture: A Review](https://www.mdpi.com/1424-8220/18/8/2674/htm)
-
-### Machine Learning Bias and Ethical Issues
-- [Ethical Implications Of Bias In Machine Learning](https://scholarspace.manoa.hawaii.edu/handle/10125/50557)
+- [Prediction of insemination outcomes in Holstein dairy cattle using alternative machine learning algorithms, Journal of Dairy Science Vol 97](https://www.sciencedirect.com/science/article/pii/S0022030213008059)
+### Machine Learning in Social Media
+- [Youtube Demonetization Report](https://docs.google.com/document/d/18B-X77K72PUCNIV3tGonzeNKNkegFLWuLxQ_evhF3AY/edit)
 - [How To Prevent Discriminatory Outcomes in Machine Learning](http://www3.weforum.org/docs/WEF_40065_White_Paper_How_to_Prevent_Discriminatory_Outcomes_in_Machine_Learning.pdf)
-- [ALGORITHMIC IMPACT ASSESSMENTS:A PRACTICAL FRAMEWORK FOR PUBLIC AGENCY ACCOUNTABILITY](https://ainowinstitute.org/aiareport2018.pdf)
-- [Algorithmic Impact Assessment v0.8](https://canada-ca.github.io/aia-eia-js/)
-- [WHITE PAPER On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 
 ### Machine Learning - Introduction
 - [Introduction to Machine Learning, Ethem Alpaydin](https://books.google.ie/books?hl=en&lr=&id=tZnSDwAAQBAJ&oi=fnd&pg=PR7&dq=machine+learning&ots=F2ZXc_9nxd&sig=8dnXiyhBPmieAJEdyzqN2P1ypA4&redir_esc=y#v=onepage&q&f=true)

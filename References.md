@@ -3,8 +3,9 @@
 ### Supervised Learning
 - [Multi-Agent Machine Learning: A Reinforcement Approach](https://ebookcentral-proquest-com.proxy.lib.ul.ie/lib/univlime-ebooks/reader.action?docID=1775207&ppg=30)
 - [Machine Learning For Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
-- [Linear regression under fixed-rank constraints](http://hdl.handle.net/2268/90930)
-- [Poisoning Attacks and Countermeasures for Regression Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8418594)
+- [An application of supervised and unsupervised learning approaches to telecommunications and fraud detection](https://doi.org/10.1016/j.knosys.2008.03.026)
+- [Clustered Linear Regression](https://doi.org/10.1016/S0950-7051(01)00154-X)
+- 
  
 ### Unsupervised Learning
 - [Machine Learning For Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3)

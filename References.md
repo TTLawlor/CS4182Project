@@ -1,7 +1,7 @@
 # Sources for our research 
 
 ### Supervised Learning
-- [Multi-Agent Machine Learning: A Reinforcement Approach](https://ebookcentral-proquest-com.proxy.lib.ul.ie/lib/univlime-ebooks/reader.action?docID=1775207&ppg=30)
+- [Emerging Artificial Intelligence Applications in Computer Engineering](https://books.google.ie/books?hl=en&lr=&id=vLiTXDHr_sYC&oi=fnd&pg=PA3&dq=machine+learning+classification&ots=CYsAvBYHkm&sig=f8BMTrPSV-Dy1hFH9A-MLfioYb8&redir_esc=y#v=onepage&q=classification&f=false)
 - [Machine Learning For Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3)
 - [An application of supervised and unsupervised learning approaches to telecommunications and fraud detection](https://doi.org/10.1016/j.knosys.2008.03.026)
 - [Clustered Linear Regression](https://doi.org/10.1016/S0950-7051(01)00154-X)

@@ -18,6 +18,7 @@
 - [Machine Learning in Agriculture: A Review](https://www.mdpi.com/1424-8220/18/8/2674/htm)
 - [Prediction of insemination outcomes in Holstein dairy cattle using alternative machine learning algorithms, Journal of Dairy Science Vol 97](https://www.sciencedirect.com/science/article/pii/S0022030213008059)
 - [Modeling managed grassland biomass estimation by using multitemporal remote sensing data - a machine learning approach](https://cora.ucc.ie/bitstream/handle/10468/6463/1430.pdf?sequence=1)
+- [Automatic fruit count on coffee branches using computer vision](https://www.sciencedirect.com/science/article/pii/S016816991630922X)
 ### Machine Learning Bias and Ethical Issues
 - [Ethical Implications Of Bias In Machine Learning](https://scholarspace.manoa.hawaii.edu/handle/10125/50557)
 - [How To Prevent Discriminatory Outcomes in Machine Learning](http://www3.weforum.org/docs/WEF_40065_White_Paper_How_to_Prevent_Discriminatory_Outcomes_in_Machine_Learning.pdf)

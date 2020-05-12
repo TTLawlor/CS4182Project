@@ -26,9 +26,14 @@
 - [ALGORITHMIC IMPACT ASSESSMENTS:A PRACTICAL FRAMEWORK FOR PUBLIC AGENCY ACCOUNTABILITY](https://ainowinstitute.org/aiareport2018.pdf)
 - [Algorithmic Impact Assessment v0.8](https://canada-ca.github.io/aia-eia-js/)
 - [WHITE PAPER On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
+- [Extracting Diagnoses and Investigation Results from Unstructured Text in Electronic Health Records by Semi-Supervised Machine Learning](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0030412)
+- [Stephen Hawking quoute on AI](https://www.theguardian.com/science/2016/oct/19/stephen-hawking-ai-best-or-worst-thing-for-humanity-cambridge)
+- [Stratford Skin Cancer Research](https://cs.stanford.edu/people/esteva/nature/)
 
 ### Machine Learning in Healthcare
-- [applications of deep learning in biomedicine](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.5b00982)
-
+- [Applications of Deep Learning in Biomedicine](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.5b00982)
+- [Machine Learning in Epidemiology](https://www.ncbi.nlm.nih.gov/pubmed/29020316)
+- [Machine Learning Theory and Applications for Healthcare](https://www.hindawi.com/journals/jhe/si/421507/)
+- [A Bright Future Or A Cause For Concern](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5987686/)- []()
 ### Machine Learning - Introduction
 - [Introduction to Machine Learning, Ethem Alpaydin](https://books.google.ie/books?hl=en&lr=&id=tZnSDwAAQBAJ&oi=fnd&pg=PR7&dq=machine+learning&ots=F2ZXc_9nxd&sig=8dnXiyhBPmieAJEdyzqN2P1ypA4&redir_esc=y#v=onepage&q&f=true)

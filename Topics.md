@@ -24,3 +24,4 @@ TYPES OF MACHINE LEARNING
 -> Uses of machine learning 
   -> Social media
   -> Health Care
+  -> [Agriculture](http://scholar.google.com/scholar?q=machine+learning+in+agriculture&hl=en&as_sdt=0&as_vis=1&oi=scholart)

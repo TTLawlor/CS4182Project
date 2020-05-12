@@ -27,5 +27,8 @@
 - [Algorithmic Impact Assessment v0.8](https://canada-ca.github.io/aia-eia-js/)
 - [WHITE PAPER On Artificial Intelligence - A European approach to excellence and trust](https://ec.europa.eu/info/sites/info/files/commission-white-paper-artificial-intelligence-feb2020_en.pdf)
 
+### Machine Learning in Healthcare
+- [applications of deep learning in biomedicine](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.5b00982)
+
 ### Machine Learning - Introduction
 - [Introduction to Machine Learning, Ethem Alpaydin](https://books.google.ie/books?hl=en&lr=&id=tZnSDwAAQBAJ&oi=fnd&pg=PR7&dq=machine+learning&ots=F2ZXc_9nxd&sig=8dnXiyhBPmieAJEdyzqN2P1ypA4&redir_esc=y#v=onepage&q&f=true)
